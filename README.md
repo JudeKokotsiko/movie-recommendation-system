@@ -1,37 +1,36 @@
 # Movie Recommendation System
 
-**Author:** Jude Kokotsiko 
-**Year:** Junior ( Statistics and Data Analytics)
+This project is a Movie Recommendation System that suggests movies based on user preferences. Built using Python, Flask, and machine learning techniques, it demonstrates the power of TF-IDF vectorization and cosine similarity.
 
-## Overview
+## Showcase Link
 
-This project is an interactive **Movie Recommendation System** that suggests movies based on user preferences. It features:
-- A Flask-based web app.
-- Stylish HTML/CSS design.
-- Recommendations powered by machine learning techniques like TF-IDF vectorization and cosine similarity.
+Click below to run the project in Google Colab:  
+[Run the Project in Colab](https://colab.research.google.com/drive/1S6xsZlw_Eb5JVk7z8GsBWjVLl_jvVHgx?usp=sharing)
+
+---
 
 ## Features
 
-1. Input your favorite movies to get personalized recommendations.
-2. Clean, user-friendly design with JavaScript form validation.
-3. Logging of user inputs and recommendations for analysis.
+- Input favorite movies to get personalized recommendations.
+- Stylish design with user-friendly interaction.
+- Powered by machine learning algorithms.
 
-## Challenges and Lessons Learned
-
-### Challenges:
-- Setting up ngrok for public hosting.
-- Cleaning and processing messy movie datasets.
-
-### Lessons Learned:
-- Using Flask for backend development and HTML/CSS for a polished frontend.
-- Implementing recommendation algorithms with machine learning techniques.
+---
 
 ## Video Walkthrough
 
-[Watch the walkthrough on YouTube](https://youtube.com/shorts/NYbmmHI4pQ0?feature=shared)
+[Watch the Project Walkthrough on YouTube](https://youtu.be/YOUR_VIDEO_URL)
 
-## How to Run the Project
+---
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/JudeKokotsiko/movie-recommendation-system.git
+## Challenges and Lessons
+
+- Challenges: Debugging Flask hosting and handling large datasets.
+- Lessons Learned: Integrating Flask backend with a polished frontend and building recommendation systems.
+
+---
+
+## Contact
+
+GitHub: [JudeKokotsiko](https://github.com/JudeKokotsiko)
+
