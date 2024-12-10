@@ -9,6 +9,15 @@ Click below to run the project in Google Colab:
 
 ---
 
+## Datasets
+
+The required datasets for this project are already included in this GitHub repository.  
+You can find them here:
+- [tmdb_5000_movies.csv](https://github.com/JudeKokotsiko/movie-recommendation-system/blob/main/tmdb_5000_movies.csv)
+- [tmdb_5000_credits.csv](https://github.com/JudeKokotsiko/movie-recommendation-system/blob/main/tmdb_5000_credits.csv)
+
+When prompted in the Colab notebook, simply download the datasets from these links and upload them to the notebook.
+
 ## Features
 
 - Input favorite movies to get personalized recommendations.
