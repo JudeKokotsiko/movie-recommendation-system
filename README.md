@@ -19,7 +19,7 @@ Click below to run the project in Google Colab:
 
 ## Video Walkthrough
 
-[Watch the Project Walkthrough on YouTube](https://youtu.be/YOUR_VIDEO_URL)
+[Watch the Project Walkthrough on YouTube](https://youtube.com/shorts/NYbmmHI4pQ0?feature=shared)
 
 ---
 
