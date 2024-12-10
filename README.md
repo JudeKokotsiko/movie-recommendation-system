@@ -39,7 +39,4 @@ When prompted in the Colab notebook, simply download the datasets from these lin
 
 ---
 
-## Contact
-
-GitHub: [JudeKokotsiko](https://github.com/JudeKokotsiko)
 
