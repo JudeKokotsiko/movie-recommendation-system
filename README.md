@@ -28,7 +28,7 @@ When prompted in the Colab notebook, simply download the datasets from these lin
 
 ## Video Walkthrough
 
-[Watch the Project Walkthrough on YouTube](https://youtube.com/shorts/NYbmmHI4pQ0?feature=shared)
+[Watch the Project Walkthrough on YouTube](https://youtu.be/VwRN-IZZhcg?feature=shared.)
 
 ---
 
